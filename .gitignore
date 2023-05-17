@@ -1,0 +1,9 @@
+bin
+obj
+csharp learning.metadata.v5.2
+csharp learning.projects.v5.2
+DesignTimeBuild
+FileContentIndex
+v17
+.vs
+*.logs
